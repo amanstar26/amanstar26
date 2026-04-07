@@ -44,16 +44,7 @@ Focused on solving real-world problems through scalable backend logic.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=default"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanstar26&layout=compact&theme=default"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanstar26&theme=minimal"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
