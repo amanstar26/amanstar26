@@ -24,7 +24,8 @@ core_modules:
 
 philosophy: >
   If a process repeats twice,
-  it deserves automation.```
+  it deserves automation.
+```
 
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanstar26&theme=tokyonight&hide_border=true"/> </p>
 
