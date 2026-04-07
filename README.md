@@ -41,9 +41,14 @@ Focused on solving real-world problems through scalable and efficient backend lo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanstar26&show_icons=true&theme=default"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs
+  ?username=AmanPatel
+  &layout=compact
+  &langs_count=8
+  &theme=tokyonight
+  &hide_border=true
+  &bg_color=050d1a
+  &title_color=00d4ff)
 
 ---
 
