@@ -1,59 +1,88 @@
-<h1 align="center">⚡ AMAN // SYSTEM DASHBOARD</h1>
-<h3 align="center">Automation Architect • Data Systems • Reverse Engineer</h3>
+<h1 align="center">⚡ AMAN SYSTEM INTERFACE</h1>
+<p align="center">Automation • Reverse Engineering • Data Systems</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanstar26&label=SYSTEM%20VISITS&color=0f172a&style=flat" />
-  <img src="https://img.shields.io/github/followers/amanstar26?label=FOLLOWERS&style=flat&color=0f172a" />
-  <img src="https://img.shields.io/github/stars/amanstar26?label=TOTAL%20STARS&style=flat&color=0f172a" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0f172a?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=amanstar26&color=0f172a&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 CORE SYSTEM CONFIG
+## 🧠 SYSTEM CORE
 
-```yaml
-identity: aman.patel
-role: automation_engineer
-system_mode: relentless_builder
+    user: aman.patel
+    role: automation_engineer
 
-core_modules:
-  - bypass_engine_v3
-  - telegram_bot_network
-  - scraping_pipeline
-  - cloudflare_solver
+    focus:
+      - bypass systems
+      - bot automation
+      - scraping pipelines
 
-philosophy: >
-  If a process repeats twice,
-  it deserves automation.
-```
+    philosophy: automate everything
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanstar26&theme=tokyonight&hide_border=true"/> </p>
+---
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanstar26&theme=tokyonight&hide_border=true"/> </p>
+## ⚡ PERFORMANCE PANEL
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanstar26&theme=tokyo-night&hide_border=true"/> </p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=amanstar26&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/amanstar26/amanstar26/main/github-metrics.svg"/> </p>
+---
 
-<!--START_SECTION:repos--> <!--END_SECTION:repos-->
+## 🧬 LANGUAGE MATRIX
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanstar26&theme=tokyonight"/> </p>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanstar26&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-```bash
-> initializing amanOS...
-> loading modules...
-> bypass_engine: ready
-> bot_network: connected
-> scraping_core: active
+---
 
-> status: SYSTEM ONLINE 🚀
-```
+## 🔥 ACTIVITY ENGINE
 
-<p align="center"> <a href="https://linkedin.com/in/aman-rajesh-patel"> <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0f172a?style=for-the-badge&logo=linkedin"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanstar26&theme=tokyo-night&hide_border=true"/>
+</p>
 
-```bash
-+ Automates everything
-+ Breaks complex systems into scripts
-+ Builds tools, not just projects
-```
+---
 
+## ⚙️ ACTIVE SYSTEMS
+
+| SYSTEM | STATUS |
+|-------|--------|
+| 🔗 Bypass Engine | 🟢 Online |
+| 🤖 Bot Network | 🟢 Running |
+| 🎬 Poster Engine | 🟢 Stable |
+| ⚡ CF Solver | 🟡 Tuning |
+
+---
+
+## 🖥️ TERMINAL
+
+    > boot amanOS...
+    > loading modules...
+
+    ✔ bypass_engine
+    ✔ bot_network
+    ✔ scraping_core
+
+    STATUS: ONLINE 🚀
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com/in/aman-rajesh-patel">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## ⚡ DEV SIGNAL
+
+    + builds automation systems
+    + breaks complex flows
+    + creates tools, not projects
