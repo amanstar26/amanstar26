@@ -46,12 +46,14 @@ philosophy: >
 > bot_network: connected
 > scraping_core: active
 
-> status: SYSTEM ONLINE 🚀```
+> status: SYSTEM ONLINE 🚀
+```
 
 <p align="center"> <a href="https://linkedin.com/in/aman-rajesh-patel"> <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0f172a?style=for-the-badge&logo=linkedin"/> </a> </p>
 
 ```bash
 + Automates everything
 + Breaks complex systems into scripts
-+ Builds tools, not just projects```
++ Builds tools, not just projects
+```
 
