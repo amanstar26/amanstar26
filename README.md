@@ -44,7 +44,7 @@ Focused on solving real-world problems through scalable backend logic.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&cache_seconds=1800](https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true)"/>
 </p>
 
 ---
