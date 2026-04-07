@@ -41,12 +41,6 @@ Focused on solving real-world problems through scalable backend logic.
 
 ---
 
-## 📊 GitHub Stats
-
-[![Aman Patel]([https://github-readme-stats.vercel.app/api?username=amanstar26](https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=tokyonight&hide_border=true))]
-
----
-
 ## 🎯 Current Focus
 
 - Building scalable automation tools  
