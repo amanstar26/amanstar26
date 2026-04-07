@@ -1,3 +1,4 @@
+```yaml
 name: Update Repo List
 
 on:
@@ -14,3 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://github.com/amanstar26.atom"
+```
