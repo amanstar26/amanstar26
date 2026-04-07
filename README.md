@@ -1,58 +1,56 @@
 <h1 align="center">Aman Patel</h1>
 <p align="center">
-  Automation Engineer • Data Science • System Builder
+  Automation Engineer • Data Systems • Bot Developer
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-rajesh-patel">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=amanstar26&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
 I build automation systems, scraping pipelines, and Telegram bot infrastructures.  
-Focused on solving real-world problems through scalable and efficient backend logic.
+Focused on solving real-world problems through scalable backend logic.
 
 ---
 
 ## ⚙️ Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,git,github" />
+</p>
+
 - **Languages:** Python, JavaScript  
-- **Core Skills:** Automation, Web Scraping, Reverse Engineering  
-- **Tools:** Git, Playwright, APIs  
+- **Core:** Automation, Scraping, Reverse Engineering  
+- **Tools:** Playwright, APIs, Git  
 
 ---
 
 ## 🚀 Projects
 
-- **Bypass Engine**  
-  Multi-layer shortener bypass system with automated resolution  
-
-- **Telegram Bot Network**  
-  Scalable bots for scraping, posting, and automation  
-
-- **Poster Engine**  
-  Metadata + image extraction system for OTT content  
+| Project | Description |
+|--------|------------|
+| 🔗 Bypass Engine | Multi-layer shortener bypass system |
+| 🤖 Telegram Bot | Automated scraping & posting system |
+| 🎬 Poster Engine | Metadata + image extraction pipeline |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs
-  ?username=AmanPatel
-  &layout=compact
-  &langs_count=8
-  &theme=tokyonight
-  &hide_border=true
-  &bg_color=050d1a
-  &title_color=00d4ff)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=default"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanstar26&layout=compact&theme=default"/>
+</p>
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanstar26&theme=minimal"/>
@@ -60,14 +58,14 @@ Focused on solving real-world problems through scalable and efficient backend lo
 
 ---
 
-## 🎯 Focus
+## 🎯 Current Focus
 
-- Building production-level automation systems  
-- Improving scraping efficiency & bypass logic  
-- Exploring AI in automation workflows  
+- Building scalable automation tools  
+- Improving bypass & scraping systems  
+- Exploring AI integration in workflows  
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
 - LinkedIn: https://linkedin.com/in/aman-rajesh-patel
