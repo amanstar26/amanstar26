@@ -42,7 +42,7 @@ Focused on solving real-world problems through scalable and efficient backend lo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanstar26&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanstar26&show_icons=true&theme=default"/>
 </p>
 
 ---
