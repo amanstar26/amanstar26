@@ -33,14 +33,6 @@
 
 ---
 
-<h2 align="center">🔥 ACTIVITY ENGINE</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanstar26&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 <h2 align="center">⚙️ ACTIVE SYSTEMS</h2>
 
 <p align="center">
