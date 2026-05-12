@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-rajesh-patel">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=amanstar26&style=for-the-badge&color=0e75b6"/>
 </p>
 
