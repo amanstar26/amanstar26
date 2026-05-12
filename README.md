@@ -34,7 +34,7 @@ Focused on solving real-world problems through scalable backend logic.
 |--------|------------|
 | 🔗 Bypass Engine | Multi-layer shortener bypass system |
 | 🤖 Telegram Bot | Automated scraping & posting system |
-| 🎬 Poster Engine | Metadata + image extraction pipeline |
+| 🎬 Poster Engine | image extraction pipeline |
 
 ---
 
