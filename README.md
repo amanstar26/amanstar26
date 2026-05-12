@@ -23,7 +23,7 @@ Focused on solving real-world problems through scalable backend logic.
 </p>
 
 - **Languages:** Python, JavaScript  
-- **Core:** Automation, Scraping, Reverse Engineering  
+- **Core:** Automation, Scraping
 - **Tools:** Selenium, Playwright, FastAPIs, Git  
 
 ---
